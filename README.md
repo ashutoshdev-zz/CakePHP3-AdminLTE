@@ -22,6 +22,7 @@ You should now be able to visit the path to where you installed the app and see 
 ## Configuration
 
 Read and edit `config/app.php` and setup the 'Datasources' and any other
+
 configuration relevant for your application.
 
 **Tutorial part 1:** http://readyourlessons.com//
